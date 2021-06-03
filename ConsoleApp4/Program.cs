@@ -14,7 +14,7 @@ namespace Assignment1_Summer2021
 
 
 
-            //Question 1 
+            //Question 1  - Robot Program
             Console.WriteLine("Q1 : Enter the Moves of Robot:");
             string moves = Console.ReadLine();
             bool pos = JudgeCircle(moves);
